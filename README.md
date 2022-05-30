@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript but no JAVA
 - 💞️ I’m looking to collaborate on... I don't know
 - 📫 How to reach me ...
-- 🤔 [My Knowledge](./../knowledge/README.md)
+- 🤔 [My Knowledge](https://github.com/monpopza/knowledge/blob/main/README.md)
 
 <!---
 monpopza/monpopza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
